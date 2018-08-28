@@ -9,15 +9,15 @@ public class Postive_Negative
         n = s.nextInt();
         if(n > 0)
         {
-            System.out.println( +n+" is Positive");
+            System.out.println( " is Positive"+n+);
         }
         else if(n < 0)
         {
-            System.out.println( +n+" is Negative");
+            System.out.println( " is Negative"+n+);
         }
         else
         {
-            System.out.println( +n+" is neither Positive nor Negative ");
+            System.out.println( " is neither Positive nor Negative "+n+);
         }
     }
 }
