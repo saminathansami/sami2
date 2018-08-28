@@ -1,5 +1,5 @@
 import java.util.*;
-public class Postive_Negative 
+public class Postivenegative 
 {
     public static void main(String args[]) 
     {
